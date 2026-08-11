@@ -8,7 +8,7 @@
 
 *The Life of Leon Walusimbi* is the true story of a creator from East Africa — the books he has written, the games he has built, the websites he has launched, the AI team he created, and the things he likes to do.
 
-This book is special: **it writes itself, one chapter a day.** A GitHub Actions workflow runs every morning, calls the `big-pickle` model on opencode.ai, and adds ~2,000 words to the book — all under Leon's direction (see `book.config.json`). The book grows as his life does.
+The book is written one chapter at a time through an automated daily pipeline: a GitHub Actions workflow runs every morning, calls the `big-pickle` model on opencode.ai, and adds a new chapter to the book — all under Leon's direction (see `book.config.json`). The book grows as his life does.
 
 ## 📚 Read Online
 

@@ -32,7 +32,7 @@ There was a moment, years later, when I was working on my own portfolio of websi
 
 People ask me where I started. I tell them: a cyber café in Kampala, with a humming CRT screen and a shaky connection, two thousand shillings in my pocket, and a notebook full of copied HTML. That's the honest answer. There was no grand plan. There was just curiosity — a stubborn, hungry curiosity that refused to be satisfied with the front-end of the web. I wanted to know how things worked on the inside. And I never lost that.
 
-Even now, when I write a book with AI or deploy a game to a server, I still feel that same beginning. The material changes. The tools change. But the act is the same: I look at something empty, I type, I click save, and I watch it come alive. That first website taught me that anything is possible if you're willing to sit in front of a machine and learn.
+Even now, when I write a book or deploy a game to a server, I still feel that same beginning. The material changes. The tools change. But the act is the same: I look at something empty, I type, I click save, and I watch it come alive. That first website taught me that anything is possible if you're willing to sit in front of a machine and learn.
 
 Some people ask if I regret those early days — not having a computer at home, not having an offline mentor, not having money. I don't. Because I learned to solve problems from scratch. I learned to be patient with broken things. I learned that the Internet is not a place you visit; it's a place you build.
 
@@ -42,6 +42,6 @@ And I built. That's what I keep doing.
 
 ## About This Book
 
-This is the autobiography of Walusimbi Leon — a creator from East Africa who has written books, built games, launched websites, and created his own AI team. It is written one chapter at a time: every day, an AI author adds roughly two thousand words under Leon's direction. The book grows as his life does.
+This is the autobiography of Walusimbi Leon — a creator from East Africa who has written books, built games, launched websites, and created his own AI team. It is still being written: new chapters are added over time, and the book grows as his life does.
 
 *Part of the SGSS Literary Collection · All works CC0 1.0 Universal (Public Domain)*
