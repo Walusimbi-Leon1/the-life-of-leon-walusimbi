@@ -38,6 +38,56 @@ Some people ask if I regret those early days — not having a computer at home, 
 
 And I built. That's what I keep doing.
 
+## The First Book
+
+The first book started on a night when nothing else was working.
+
+I had spent hours trying to fix a client's website. The layout kept breaking on mobile. The images refused to load. The hosting server was having one of its moods. I closed my laptop near two in the morning, and the silence of the house pressed in on me. Rain was falling on the roof, the way it does in Kampala when the night decides it is not done with you yet. I sat in the dark, tired of fighting machines, tired of making things that belonged to other people.
+
+And then, for no reason I can explain, I opened the laptop again. I opened a blank document. I typed a sentence.
+
+It wasn't code. It was a thought. Something I had been carrying for weeks without knowing it. A line about a person standing at a crossroads, looking back at a life they almost lived.
+
+I stared at that sentence for a long time. Then I typed another one.
+
+By the time the sky turned grey, I had written three pages. They weren't good pages. They were rough and half-finished and the grammar wobbled. But they were mine. They came from my head, my heart, my history — not from a template, not from a client's requirements, not from anything I had been asked to make. I saved the file and named it book.txt, because I didn't have a better name for it.
+
+That was the beginning of everything I write today.
+
+For a long time, I didn't tell anyone. Writing felt different from building websites. A website you could point at and say, look, it works, it loads, it does the thing. Writing was softer. Writing asked me to be honest about things I kept buried — the words I had wished I said, the people I had let drift, the version of myself I was still becoming. I wasn't ready for anyone to see that.
+
+So I wrote in secret. Mostly at night. I discovered that my brain does its best work when the world is asleep. The phone stops buzzing. The notifications stop. The silence becomes a workshop. I wrote about love I hadn't fully lived and places I had never been. I wrote about people I knew, then disguised them so completely that they became strangers to me too. And slowly, page by page, I started to understand myself better than I had in years. The keyboard was like a mirror I could type into.
+
+I grew up reading whatever I could find. Borrowed novels with missing covers. Old textbooks that smelled of dust. Newspapers someone had used to wrap something, which I would smooth out and read from corner to corner. Stories were food to me. But it never occurred to me that I could cook. That night, standing at the stove for the first time, I burned a lot of things. But the fire was in me now.
+
+The first complete thing I wrote was not a novel. It was a series of letters — words I had wanted to say to people but never had the courage to deliver. I called it letters-i-never-sent, all lowercase, because it felt like a file name more than a title. That book is still in the collection today. It is the most honest thing I have ever written, and every time someone tells me it meant something to them, I remember the long nights it took to get those words out.
+
+Once I had one finished manuscript, the others came faster. I discovered that stories are not something you wait for. They are something you build, the same way you build a website or a game. You start with a wireframe — a character, a place, a question. Then you add structure, content, style. You test it. You break it. You fix it. And one day, it feels complete enough to publish.
+
+I published my first book with too much hope and not enough knowledge. I didn't have a publisher. I didn't have an agent. I had a laptop, an internet connection that liked to disappear at the worst moments, and the stubborn belief that a story from East Africa could travel. So I made my own imprint. I called it SGSS. People ask what it stands for. The honest answer is that it started as letters that felt strong to me, names I had given myself in private, and it grew into a family of works. I don't give it more weight than that. The work is the weight.
+
+I remember the day I decided to publish. My finger hovered over the button for a long time. If I clicked it, the book would be out. People could read it. People could judge it. The world would have my words in its hands, and I would not be able to take them back. That fear almost stopped me. Then I remembered the first website I had ever pushed live, the way I had refreshed the page five times just to watch it load. Publishing was the same thing. The stakes were just higher. I clicked. The upload completed. And the book existed.
+
+The first novel I wrote was Whispers of Destiny. It was a love story about timing — two people whose paths kept crossing and uncrossing, the way rivers do. I wrote it because I wanted to believe that the universe has a way of bringing people back to the places they are meant to be. Then came Salt and Silk, which was about the texture of wanting — the salt of tears and sweat, the silk of everything soft. The title came to me before the story did. I chased it until the story caught up.
+
+Then Burning Hours, which I also published under the title The Taste of You. A book about a love that burned too bright to last. I gave it two titles because it felt like two stories — the hours of the fire, and the taste it left behind. Some books refuse to be one thing. That one never let me forget it.
+
+There were more. Beyond-the-horizon, about the ache of leaving and the pull of what you left behind. The Rhythm of Your Heart, about two people learning to beat in time with each other. Under the Acacia Tree, about the kind of quiet love that happens in the shade of old things. Each book began with a feeling, not a plot. I wrote the feeling first and let the plot catch up.
+
+But not everything I wrote was fiction. I found myself thinking about ideas as much as stories. I wrote The Architecture of Thought, about how our minds are built brick by brick — by what we consume, what we create, what we refuse to question. I wrote Architecture of Stillness, which was the harder book: how to sit still in a world that hates stillness. And I wrote Atlas of Feeling, a map of the emotions I had walked through, so that others might find their own roads in it.
+
+Then there were the biographies. People often ask why I wrote about MrBeast, Elon Musk, Donald Trump, and IShowSpeed. The answer is simple: they are builders. MrBeast built an empire out of curiosity and obsession with scale. Elon Musk refuses to accept that anything is impossible, and there is something contagious about that refusal. Donald Trump turned audacity into a force of nature — whatever you think of him, you cannot deny the persistence. And IShowSpeed is proof that a young person from anywhere can command the world's attention if they are willing to be fully, loudly themselves. I don't write about famous people because they are famous. I write about them because their journeys are lessons in what happens when a person refuses to stop pushing. And lessons, I have learned, are the best stories.
+
+The decision to publish everything as public domain was the most important one I made. When I first started, I worried about people stealing my work. But then I remembered how I had learned to build — from open forums, free code snippets, strangers sharing tutorials for nothing. The Internet gave me a craft without asking for a single shilling in return. How could I turn around and lock my own words in a cage? So I set them free. CC0. Universal. No copyright. Anyone can read, copy, adapt, translate, even sell them. Some people think I am naive. But I have seen what sharing does. It builds trust. It builds community. It builds the future. And I intend to give back with both hands.
+
+The first book didn't sell much. Maybe nobody read it in the first month. Perhaps not even in the first season. But the act of publishing changed me. It turned me from a person who makes things into a person who says things. There is a difference. Websites are containers. Books are voices. I had spent years building beautiful containers, and I had forgotten to fill them with anything that was mine.
+
+Now I can't stop writing. Every night, the words come. Some nights they are hard and I have to drag them out of me one letter at a time. Other nights they pour like rain on a tin roof. It isn't magic. It's discipline. It's showing up, opening the document, and being honest.
+
+I kept the very first file — book.txt — for years. It lives somewhere in my servers now, the way you keep old photographs. Sometimes I open it just to remind myself where I started. Three pages, typed in the dark, by a man who didn't know he was a writer yet.
+
+I know now. And I intend to keep proving it, one page at a time.
+
 ---
 
 ## About This Book
