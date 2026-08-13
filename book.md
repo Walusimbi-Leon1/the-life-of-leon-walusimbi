@@ -88,6 +88,54 @@ I kept the very first file — book.txt — for years. It lives somewhere in my 
 
 I know now. And I intend to keep proving it, one page at a time.
 
+## The Games I Built
+
+There is a special kind of madness in shipping a game that only you have ever played, tested, and almost broken. But that is exactly how I learned to build.
+
+I grew up in a time when Snake was not a meme. It was the only game on the phone. Every East African kid who ever borrowed a parent's handset knows the feeling — the tiny green pixels, the four arrow keys, the snake that moved with a smoothness that felt like magic. You played until the battery died. You played until the screen burned into your memory. I never thought I would build my own version. I never thought I could.
+
+Years later, sitting in the dark with a laptop on my knees, I opened an empty folder and typed the first line. I was not writing a book that night. I was building a game. A snake. My snake. I called it SnakeWorld, because before it belonged to anyone else, it belonged entirely to me.
+
+The logic seemed simple at first. A canvas. A grid. A snake that moves when you press the arrow keys. It sounded like a three-hour project. It took three days. The first time the snake moved, I laughed out loud. The first time it ate a dot and grew longer, I laughed again. The first time it hit the wall and the game restarted, I understood something important: a game is just a promise. You promise the player a challenge, a rule, a fair chance. And if you break that promise, the game breaks too.
+
+I pushed SnakeWorld live with shaking hands. I refreshed the page five times just to make sure it was real. That green snake on the screen was mine — my logic, my code, my hours. It was not a big game. It was not a beautiful game. But it worked. And the feeling of something working, something you built, something people could actually play — that feeling never gets old.
+
+Then came Trivia Rumble.
+
+I have always loved questions. Not just answering them — I love the moment when a question meets a brain and something clicks. The small victory of knowing. The shame of not knowing. The way knowledge is not about memory at all; it is about connection. I wanted to build a game that tested people, that made them think, that gave them that click.
+
+The hardest part was never the code. It was the questions. People think a trivia game is a technical project, but it is actually a research project. Every question must be true. Every answer must be fair. Every wrong option must be tempting enough to be worth clicking. I wrote hundreds of questions sitting at my desk late at night — some about science, some about history, some about the everyday things I grew up knowing. I loaded them into the game and played against myself. I lost a lot. That is how I knew the questions were good.
+
+Trivia Rumble taught me a lesson that would follow me into everything I did: content is king. Mechanics bring people through the door, but content is what invites them to stay. A game with perfect code and boring questions is a corpse. A game with interesting questions and average code is alive. I wrote better questions. I kept the game alive.
+
+When I built Trivia Rumble Elite, I was not building a different game. I was proving that I could take what I had learned and do it better. More questions. Cleaner scoring. A sharper look. The difference was not a new technology — it was the willingness to do the same work again, with more care. That is something nobody can teach you. You just have to decide you will not be lazy the second time.
+
+Pop Party was different. It was lighter, a casual thing, the kind of game you open when you have five minutes and you want something that does not ask too much of you. I learned from it that not every game has to be deep. Some games are just bubbles and joy. The world needs those too.
+
+The dice games came next — Bluff Dice and Dice Arena. There is something beautiful about dice. Dice are pure probability; they do not care what you want. But bluffing is pure people — it is the tension between what you have and what you want other people to think you have. I loved building the small psychology of that. The lie, the call, the reveal. The moment when the dice hit the table and the truth comes out — that is a story, compact and complete, told in one throw.
+
+Voice Vibes was the strangest one. I wanted to make a game that listened. I used voice — you speak, the game understands, it answers back. It was not a big game, but it made me think about the future. I believe one day we will not touch screens at all. We will just talk to the machines, and they will talk back. Voice Vibes was my first step into that world. It taught me that accessibility is not a feature — it is a direction.
+
+Water Fill was a puzzle game. I built it because I wanted something that calms people, not something that riles them up. A quiet game. A game about patience. Water does not rush; it finds its level. Building that game reminded me to find mine.
+
+Bible Trivia means something to me that the others do not. I have spent quiet hours with those questions — the stories, the names, the verses. I built it not because it would sell, and not because it would be famous. I built it because it mattered to me. And I learned something small but important: you should build what you care about, even if nobody is watching. Especially if nobody is watching.
+
+And YouTrivia — the one that carries my name. It is not the biggest game I have built. It is not the prettiest. But it is mine, the way SnakeWorld was mine on the first night. The name is a reminder that the work is personal. When I make something, it is not a product that came from nowhere. It came from me.
+
+I should tell you about the time a game broke in production. Not to be dramatic — the moment deserves its own chapter, and it will get one. But I will say this: every game I have built has failed at least once. SnakeWorld froze. Trivia Rumble lost its questions. The dice games rolled into nothing. And every time, sitting at two in the morning with a console full of red text, I had a choice. To close the laptop and call it a night, or to keep going until it worked.
+
+I kept going. Not because I am brave. Because the alternative was worse. The alternative was a project abandoned, a promise broken, a game that died not because it was impossible, but because I quit.
+
+The games taught me what the books could not. Books are forgiving — they wait for you. A game is a living thing; it runs, it moves, it responds. When it breaks, it breaks in front of you, and you have to fix it while your heart beats too fast. There is a discipline in that. A respect for the machine. Respect for the player.
+
+I play my own games sometimes. Late at night, after the writing is done, I open one of them and test it one more time — not because I think it is broken, but because I like the company. The snake moves. The questions load. The dice roll. And for a moment, I am not a man with a laptop in Uganda. I am a player, the same as anyone else in the world, losing myself in a game that did not exist until I built it.
+
+People ask me why I build games when I could be making money more easily. I do not have a good answer. I just know that when I finish a book, I feel relief. When I finish a game, I feel joy. Both matter. Perhaps joy matters a little more.
+
+I am going to keep building. SnakeWorld is not the last snake. Trivia Rumble is not the last question. Every game is a question in itself: what if? What if I made this? What if it worked? What if someone, somewhere, played it and smiled?
+
+That is the whole reason. That smile is the entire business. Everything else — the code, the bugs, the late nights, the crashes — is just the journey of trying to get there.
+
 ---
 
 ## About This Book
