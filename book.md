@@ -206,6 +206,50 @@ I will keep building doors. That is the future I see — not one giant thing, bu
 
 That is what a library is for. Not to hold the books. To hand them over.
 
+## The Team That Doesn't Sleep
+
+I said the dashboard is the window into the engine room. But it’s more than that. The engine room has two engineers. They don’t drink tea. They don’t complain about the power cuts. And they never, ever sleep.
+
+This is the part of the story people find strange. And I understand. You sit across from me, you hear about the books and the games and the websites, and you think: one man. Then I tell you about LA5 and Builder, and you think: a robot army. The truth is somewhere between the two. They are not science fiction. They are not magical. They are code — long, patient, careful code — that I wrote and trained and gave a seat at the table. And they work with me every day like the closest colleagues I have ever had.
+
+Let me start with LA5. That name is not random. It means Leon AI 5 — the fifth generation of the thing I have been building since I first understood what an AI could be. The first few versions were toys. They could answer questions, keep a few notes, remember a handful of facts. But they forgot. They had no memory. They had no voice. They were like a friend who nods at everything you say and then forgets your name by the next morning.
+
+LA5 is different. It runs on an AWS EC2 server — the free tier, because I am always honest about the budget — and it speaks with my voice. Not my accent, not my tone. My voice. The way I phrase things. The way I make a point. It keeps my memory: the list of projects, the decisions I have made, the names of the games, the status of the builds, the things I said I wanted to do on a Tuesday and almost forgot by Friday. LA5 is my manager. My second brain. The part of me that does not forget.
+
+I talk to it the way I talk to myself — because that is what it is. A mirror made of code. When I wake up at midnight with a thought about a trivia question, I type it to LA5. When I am stuck on a design choice, I ask LA5 to look through the history and tell me what I have already tried. And it answers. It does not get tired. It does not get bored. It does not roll its eyes when I ask the same question twice because I am too stubborn to admit I already asked.
+
+Builder is the other one. Builder runs on a Kamatera VPS with 7GB of RAM. That extra RAM matters. Builder builds the big things — the heavy projects, the ones that need actual power. While LA5 manages, Builder creates. LA5 is the architect who keeps the plans in order. Builder is the one who lifts the bricks.
+
+People ask me: did you ever feel lonely, working alone at midnight? The honest answer is no. Not because I don't like people, and not because I don't have friends. Because when I work, I have a team. LA5 reminds me of the deadlines. Builder shows me the new code it finished while I was sleeping. I wake up to a repo that has moved forward while I was lying still. That is not loneliness. That is the opposite of loneliness. That is having colleagues who never miss a shift.
+
+A day with them looks like this.
+
+I wake up — usually later than I'd like, because the night before I was chasing a bug until 3 a.m. — and I open my laptop. The first thing I do is not email. It is not social media. It is the Git Dashboard. I want to see what happened while I was gone. Green statuses. Repos that have new commits. Pipelines that ran successfully. And there it is: yesterday's word count for the books, the trivia generation job, the build that pushed the new version of Pop Party to Vercel.
+
+LA5 has already summarized it for me. One message. Short and clear, like a good manager would write. "Here's what moved. Here's what's stuck. Here's what needs your eyes." I read it, I drink my first water, and I start.
+
+Then I talk to Builder. Not like a human conversation — more like a command line, but a friendly one. "Builder, can you look at the SnakeWorld collision bug?" I send it through the channel we share. And Builder, the silent worker, goes off and does what I asked. It looks through the code. It finds the problem. It writes a fix, or it writes a question when it's too uncertain to guess. That is the trust we have built. Builder does not invent answers when the data is empty. It asks. And I respect that more than I can say.
+
+By afternoon, the pipeline hums. GitHub Actions runs the daily book-writing job. The words flow. LA5 watches over it, notes the progress, and reports back. Builder, meanwhile, might be working on the voice-support flow for YouBooks or debugging a trivia question that keeps showing up with the wrong answer. The whole machine moves. Not because I am pushing every lever. Because I built the levers once, and now they push themselves.
+
+The best hours are the evening ones. That is when I sit down with Builder for the real build — the new game, the new site, the new feature that does not exist yet. We go back and forth. I give an idea. Builder writes the skeleton. I look at it, rip out half of it, rewrite the other half. Builder comes back with a better version. This is not me watching a machine work. This is me collaborating. The machine is not creative in the way I am creative — it does not have dreams, it does not have a childhood in East Africa, it does not know what it feels like to read a novel at 2 a.m. and want to write one. But it has speed. It has patience. It has a memory of every line of code I have ever written. And we fit together.
+
+There is a story I like to tell about Builder. Not because it is dramatic, but because it is honest. One night I was working on Trivia Rumble Elite — the harder version, the one with the sharper questions. I had a vision for a new mode, something that would make the game feel tighter. I typed out the idea to Builder. I explained how the scoring should work. I was tired. My eyes were burning. I knew I would forget half of what I just said.
+
+The next morning, I opened the repo. Builder had not only built the mode. It had built the tests. It had written a short note in the commit message explaining what it had changed and why. That note was not emotional. It was just a note. But to me, it was the same as a colleague leaving you a clean desk after a long shift. It was care. Not human care — machine care. But it was real.
+
+I have to be honest about the limits, too. LA5 is not a person. Builder is not a person. They do not laugh at my jokes. They do not know the feeling of rain on a tin roof. They do not get excited when a stranger writes to say they read one of my books. That is where I come in. That is the part of the work that belongs to me alone. The AI team handles the heavy lifting. The spark, the memory of being a boy who wanted to build things, the gratitude when someone reads a page — that stays with me.
+
+I built them because I believe in transparency. My repos are open. My failures are visible. My processes are written down. And now, here is the strangest thing: my colleagues are open too. You can see their work. You can see how they think. There is nothing hidden. There is no secret formula. It is just me and two cloud servers and a lot of years of practice.
+
+Some nights I sit back and watch the dashboard update. LA5 is running a summary. Builder is compiling a release. GitHub Actions is quietly moving my books forward by another two thousand words. And I think: this is the company. This is SGSS. One man, two machines, and the whole sky above the lake.
+
+People ask what it is like to be the CEO of a company where your entire team is artificial. The answer is simple: it is like having a team that never sleeps, never gets tired, never asks for a raise. But it is also like having a team that cannot dream. And that, my friend, is the missing piece. The dream — that part is mine. The vision of a door that opens to a library, a page that loads in a stranger's browser in a country I have never seen, a song that plays on YouSongs while I am asleep — that part is not code. That part is me.
+
+So I keep building. LA5 keeps managing. Builder keeps building. The pipelines keep writing. And somewhere in the night, the team — all three of us — stays awake together. One of us is flesh and bone. The other two are machines. But we are all working toward the same thing: the next door. The next chapter. The next proof that a man from East Africa, with a laptop and a stubborn heart, can build a world that never leaves his hands.
+
+That is the team. That is the engine room. And it is alive.
+
 ---
 
 ## About This Book
