@@ -19,7 +19,7 @@ The book is written one chapter at a time through an automated daily pipeline: a
 
 1. Every day at **04:30 UTC (07:30 EAT)**, the `Daily Book Writing` workflow runs.
 2. `scripts/write-book.js` reads the current book + instructions in `book.config.json`.
-3. It asks `big-pickle` (opencode.ai) for the next ~2,000 words of memoir.
+3. It asks `big-pickle` for the next ~2,000 words of memoir.
 4. The chapter is appended to `book.md` and injected into `book.html`.
 5. The commit is pushed as *SGSS Books Bot* → GitHub Pages rebuilds → the book grows.
 
